@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saikumar2187, I'm an Aeronautical undergraduate learning how to code
+- 👋 Hi, I’m @saikumar2187, I'm an Aerospace post-graduate student learning how to code
 - 👀 I’m interested in learning anything which new to me
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
