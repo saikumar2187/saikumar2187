@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @saikumar2187, I'm an Aerospace post-graduate student learning how to code
-- 👀 I’m interested in learning anything which new to me
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 To reach me, email me on ysaikumar827@gmail.com
+# Hey, I'm Sai Kumar 👋
 
-<!---
-saikumar2187/saikumar2187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Postgraduate student in **Aerospace Engineering** at **IIT Madras**, Chennai — graduating 2026.
+
+🔬 My core work lives at the intersection of **Computational Fluid Dynamics (CFD)** and high speed flows. I simulate, iterate, and optimize — primarily using **OpenFOAM**.
+
+---
+
+## 🛠️ Skills & Tools
+- **CFD & Simulation** — OpenFOAM, Ansys Fluent
+- **Programming Languages** — Python, MATLAB
+---
+
+## 🚀 Currently
+
+- 🔭 Final year of M.Tech at IIT Madras
+- 💼 Actively looking for roles in **aerospace engineering** — CFD, Aerodynamics, or Propulsion 
+- 🤖 Exploring AI collaboration for engineering workflows
+---
+
+## 📫 Let's Connect
+
+Open to opportunities, collaborations, and conversations about aerospace, CFD, or AI-assisted engineering.
+
+---
+
+*Built with curiosity. Validated with simulation.*
