@@ -1,6 +1,6 @@
 # Hey, I'm Sai Kumar 👋
 
-🎓 Postgraduate student in **Aerospace Engineering** at **IIT Madras**, Chennai — graduating 2026.
+🎓 Postgraduate student in **Aerospace Engineering** at **IIT Madras**, Chennai — graduated in 2026.
 
 🔬 My core work lives at the intersection of **Computational Fluid Dynamics (CFD)** and high speed flows. I simulate, iterate, and optimize — primarily using **OpenFOAM**.
 
@@ -13,7 +13,6 @@
 
 ## 🚀 Currently
 
-- 🔭 Final year of M.Tech at IIT Madras
 - 💼 Actively looking for roles in **aerospace engineering** — CFD, Aerodynamics, or Propulsion 
 - 🤖 Exploring AI collaboration for engineering workflows
 ---
